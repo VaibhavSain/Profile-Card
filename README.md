@@ -1,89 +1,87 @@
-# 👋 Hi, I'm Vaibhav Sain
+```md
+# 👤 Profile Card
 
-🚀 **Full Stack Developer | MERN Stack Enthusiast | Problem Solver**
-
-I’m a passionate **Full Stack Developer** who loves building scalable web applications and clean, user‑friendly interfaces. I enjoy working across the stack — from designing responsive frontends to developing efficient backend systems.
-
----
-
-## 🌐 Socials
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:xyzx010101@gmail.com)
+A simple and responsive **Profile Card** built to showcase personal information in a clean and visually appealing way. This project is perfect for beginners looking to practice frontend fundamentals and UI design.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Features
 
-### 🎨 Frontend
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
-
-### ⚙️ Backend
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge\&logo=nodemon\&logoColor=%BBDEAD)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### 🧰 Tools & DevOps
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge\&logo=npm\&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge\&logo=gitlab\&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge\&logo=gitlab\&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
+- 📱 Responsive design  
+- 🎨 Clean and modern UI  
+- 👤 Displays profile image, name, role, and bio  
+- 🔗 Social media links  
+- ⚡ Lightweight and fast  
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=VaibhavSain\&theme=tokyonight\&hide_border=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=VaibhavSain\&theme=tokyonight\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavSain\&theme=tokyonight\&hide_border=false\&layout=compact)
+- **HTML5**
+- **CSS3**
+- **JavaScript** (optional, if used)
 
 ---
 
-## 🏆 GitHub Trophies
+## 📸 Preview
 
-![](https://github-profile-trophy.vercel.app/?username=VaibhavSain\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+![Profile Card Preview](./preview.png)
 
----
-
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+> _Add a screenshot of your project and name it `preview.png`_
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 📂 Project Structure
 
-![](https://github-contributor-stats.vercel.app/api?username=VaibhavSain\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
+```
+
+profile-card/
+│
+├── index.html
+├── style.css
+├── script.js (optional)
+└── README.md
+
+````
 
 ---
 
-## 🚀 Currently Focused On
+## 🧑‍💻 Getting Started
 
-* Building **full stack MERN applications**
-* Writing clean, scalable code
-* Improving performance and UI/UX
-* Learning backend optimization & system design
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/profile-card.git
+````
+
+2. Open `index.html` in your browser
+
+That’s it! 🎉
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=VaibhavSain\&icon=0\&color=0)](https://visitcount.itsvg.in)
+## 🎯 Learning Outcomes
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* Improved understanding of HTML structure
+* Hands-on CSS styling and layout techniques
+* Basics of responsive design
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork the repo and submit a pull request.
+
+---
+
+## 📬 Contact
+
+**Vaibhav Sain**
+📧 Email: [your-email@example.com](mailto:your-email@example.com)
+🔗 GitHub: [github.com/VaibhavSain](https://github.com/VaibhavSain)
+
+---
+
+⭐ If you like this project, don’t forget to star the repository!
+
+```
